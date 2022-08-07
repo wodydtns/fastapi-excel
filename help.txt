@@ -1,0 +1,10 @@
+# 명령어
+ - 실행 : uvicorn main:app --reload
+
+http://localhost:8000/docs -> Swagger
+
+http://localhost:8000/redoc -> Redoc -> generates API
+
+http://localhost:8000/openapi.json
+
+starlette - python 3.6 이상 
